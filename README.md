@@ -62,3 +62,4 @@ rush build -r
 ```
 
 Готовый файл `Parsemedia.aix` появится в папке `out/`.
+
